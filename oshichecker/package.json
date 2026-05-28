@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "build:data:csv": "node scripts/buildDataFromCsv.js",
+    "build:data:members": "node scripts/buildMembersFromCsv.js",
+    "export:data:members": "node scripts/exportMembersToCsv.js",
+    "export:data:members:paste": "node scripts/exportMembersToTsv.js"
   },
   "dependencies": {
     "html-to-image": "^1.11.13",

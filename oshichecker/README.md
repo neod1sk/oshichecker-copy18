@@ -34,6 +34,15 @@ npm run dev
 
 # 画像保存機能を有効にする場合
 npm install html-to-image
+
+# スプレッドシートCSVからデータJSONを生成
+npm run build:data:csv
+
+# メンバーデータだけCSVから生成
+npm run build:data:members
+
+# members.json から4CSVを自動出力
+npm run export:data:members
 ```
 
 ## 📁 プロジェクト構成
