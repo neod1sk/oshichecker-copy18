@@ -261,9 +261,9 @@
   },
   {
     "id": "HRMK",
-    "name": "HRMK(はらむこ)",
-    "nameJa": "HRMK(はらむこ)",
-    "nameKo": "HRMK(하라무코)",
+    "name": "HRMK/はらむこ",
+    "nameJa": "HRMK/はらむこ",
+    "nameKo": "HRMK/하라무코",
     "nameEn": "HRMK",
     "blogUrl": "https://note.com/daisuke_001/n/n96a142933f7c"
   },
@@ -341,8 +341,8 @@
   },
   {
     "id": "TOSTAGE",
-    "name": "toStage(ツ-ステ)",
-    "nameJa": "toStage(ツ-ステ)",
+    "name": "toStage/ツ-ステ",
+    "nameJa": "toStage/ツ-ステ",
     "nameKo": "츠-스테",
     "nameEn": "toStage",
     "blogUrl": "https://note.com/daisuke_001/n/n8281a9ed730e"
@@ -357,25 +357,25 @@
   },
   {
     "id": "1064",
-    "name": "1064(じゅうろよん)",
-    "nameJa": "1064(じゅうろよん)",
+    "name": "1064/じゅうろよん",
+    "nameJa": "1064/じゅうろよん",
     "nameKo": "쥬로욘",
     "nameEn": "1064",
     "blogUrl": "https://note.com/daisuke_001/n/nb88dd5f8b8f5"
   },
   {
     "id": "17HZ",
-    "name": "17Hz.(イナツ)",
-    "nameJa": "17Hz.(イナツ)",
-    "nameKo": "17Hz.(이나츠)",
+    "name": "17Hz./イナツ",
+    "nameJa": "17Hz./イナツ",
+    "nameKo": "17Hz./이나츠",
     "nameEn": "17Hz.",
     "blogUrl": "https://note.com/daisuke_001/n/n84425c57702b"
   },
   {
     "id": "ISIBIPRO",
-    "name": "22%(イシビプロ)",
-    "nameJa": "22%(イシビプロ)",
-    "nameKo": "22%(이시비프로)",
+    "name": "22%/イシビプロ",
+    "nameJa": "22%/イシビプロ",
+    "nameKo": "22%/이시비프로",
     "nameEn": "22%",
     "blogUrl": "https://note.com/daisuke_001/n/n3137dbdae2a2"
   },
@@ -442,5 +442,325 @@
     "nameKo": "디엑스",
     "nameEn": "D-X",
     "blogUrl": "https://note.com/daisuke_001/n/nbe292402695d"
+  },
+  {
+    "id": "DEARVE",
+    "name": "Dearve",
+    "nameJa": "Dearve",
+    "nameEn": "Dearve",
+    "nameKo": "Dearve",
+    "blogUrl": ""
+  },
+  {
+    "id": "ARIS",
+    "name": "ARIS",
+    "nameJa": "ARIS",
+    "nameEn": "ARIS",
+    "nameKo": "ARIS",
+    "blogUrl": ""
+  },
+  {
+    "id": "MAIMATSU",
+    "name": "MAIMATSU",
+    "nameJa": "MAIMATSU",
+    "nameEn": "MAIMATSU",
+    "nameKo": "MAIMATSU",
+    "blogUrl": ""
+  },
+  {
+    "id": "KNIGHTMELLO",
+    "name": "Knight Mello",
+    "nameJa": "Knight Mello",
+    "nameEn": "Knight Mello",
+    "nameKo": "나이트멜로",
+    "blogUrl": ""
+  },
+  {
+    "id": "NATSUHA",
+    "name": "NATSUHA",
+    "nameJa": "NATSUHA",
+    "nameEn": "NATSUHA",
+    "nameKo": "NATSUHA",
+    "blogUrl": ""
+  },
+  {
+    "id": "ASTERISK",
+    "name": "Asterisk",
+    "nameJa": "Asterisk",
+    "nameEn": "Asterisk",
+    "nameKo": "Asterisk",
+    "blogUrl": ""
+  },
+  {
+    "id": "CUSEHACKER",
+    "name": "CUSE HACKER",
+    "nameJa": "CUSE HACKER",
+    "nameEn": "CUSE HACKER",
+    "nameKo": "CUSE HACKER",
+    "blogUrl": ""
+  },
+  {
+    "id": "LIAR",
+    "name": "LiaR",
+    "nameJa": "LiaR",
+    "nameEn": "LiaR",
+    "nameKo": "LiaR",
+    "blogUrl": ""
+  },
+  {
+    "id": "MIERE",
+    "name": "MIERE",
+    "nameJa": "MIERE",
+    "nameEn": "MIERE",
+    "nameKo": "MIERE/미에르",
+    "blogUrl": ""
+  },
+  {
+    "id": "OBSID",
+    "name": "Obsid",
+    "nameJa": "Obsid",
+    "nameEn": "Obsid",
+    "nameKo": "Obsid/옵시드",
+    "blogUrl": ""
+  },
+  {
+    "id": "MIKOME",
+    "name": "MIKOME",
+    "nameJa": "MIKOME",
+    "nameEn": "MIKOME",
+    "nameKo": "MIKOME",
+    "blogUrl": ""
+  },
+  {
+    "id": "AU",
+    "name": "AU",
+    "nameJa": "AU",
+    "nameEn": "AU",
+    "nameKo": "AU",
+    "blogUrl": ""
+  },
+  {
+    "id": "URAOKO",
+    "name": "URAOKO",
+    "nameJa": "URAOKO",
+    "nameEn": "URAOKO",
+    "nameKo": "URAOKO",
+    "blogUrl": ""
+  },
+  {
+    "id": "2REACHU",
+    "name": "2reachU",
+    "nameJa": "2reachU",
+    "nameEn": "2reachU",
+    "nameKo": "2reachU",
+    "blogUrl": ""
+  },
+  {
+    "id": "AMKZ",
+    "name": "Amakize",
+    "nameJa": "Amakize",
+    "nameEn": "Amakize",
+    "nameKo": "Amakize",
+    "blogUrl": ""
+  },
+  {
+    "id": "SUITA",
+    "name": "Suita",
+    "nameJa": "Suita",
+    "nameEn": "Suita",
+    "nameKo": "Suita/스이타",
+    "blogUrl": ""
+  },
+  {
+    "id": "FKEYS",
+    "name": "fkeys",
+    "nameJa": "fkeys",
+    "nameEn": "fkeys",
+    "nameKo": "fkeys/에프키스",
+    "blogUrl": ""
+  },
+  {
+    "id": "SRK",
+    "name": "SHUROKU",
+    "nameJa": "SHUROKU",
+    "nameEn": "SHUROKU",
+    "nameKo": "SHUROKU",
+    "blogUrl": ""
+  },
+  {
+    "id": "INEHEART",
+    "name": "INEHEART",
+    "nameJa": "INEHEART",
+    "nameEn": "INEHEART",
+    "nameKo": "INEHEART/이네하토",
+    "blogUrl": ""
+  },
+  {
+    "id": "POCOX2LOGIN",
+    "name": "POCOx2LOGIN",
+    "nameJa": "POCOx2LOGIN",
+    "nameEn": "POCOx2LOGIN",
+    "nameKo": "POCOx2LOGIN",
+    "blogUrl": ""
+  },
+  {
+    "id": "MADCODE",
+    "name": "MADCODE",
+    "nameJa": "MADCODE",
+    "nameEn": "MADCODE",
+    "nameKo": "MADCODE/매드코드",
+    "blogUrl": ""
+  },
+  {
+    "id": "JEGALRYANG",
+    "name": "チェガルリャン",
+    "nameJa": "チェガルリャン",
+    "nameEn": "JEGALRYANG",
+    "nameKo": "제갈량",
+    "blogUrl": ""
+  },
+  {
+    "id": "CYDE1IC",
+    "name": "CYDE1iC",
+    "nameJa": "CYDE1iC",
+    "nameEn": "CYDE1iC",
+    "nameKo": "CYDE1iC",
+    "blogUrl": ""
+  },
+  {
+    "id": "SHIRONA",
+    "name": "SHIRONA",
+    "nameJa": "SHIRONA",
+    "nameEn": "SHIRONA",
+    "nameKo": "SHIRONA",
+    "blogUrl": ""
+  },
+  {
+    "id": "LOGSHITE",
+    "name": "LOGSHITE",
+    "nameJa": "LOGSHITE",
+    "nameEn": "LOGSHITE",
+    "nameKo": "LOGSHITE",
+    "blogUrl": ""
+  },
+  {
+    "id": "TORISETSU",
+    "name": "torisetsu",
+    "nameJa": "torisetsu",
+    "nameEn": "torisetsu",
+    "nameKo": "토리세츠",
+    "blogUrl": ""
+  },
+  {
+    "id": "LAPICA",
+    "name": "Lapica",
+    "nameJa": "Lapica",
+    "nameEn": "Lapica",
+    "nameKo": "Lapica",
+    "blogUrl": ""
+  },
+  {
+    "id": "NEMURIYUME",
+    "name": "NEMURIYUME",
+    "nameJa": "NEMURIYUME",
+    "nameEn": "NEMURIYUME",
+    "nameKo": "NEMURIYUME",
+    "blogUrl": ""
+  },
+  {
+    "id": "NAMIKAI",
+    "name": "NAMIKAI",
+    "nameJa": "NAMIKAI",
+    "nameEn": "NAMIKAI",
+    "nameKo": "나미카이",
+    "blogUrl": ""
+  },
+  {
+    "id": "HNMT",
+    "name": "HNMT/ハナマツ",
+    "nameJa": "HNMT/ハナマツ",
+    "nameEn": "HNMT",
+    "nameKo": "하나마츠",
+    "blogUrl": ""
+  },
+  {
+    "id": "SINGWANGYO",
+    "name": "SINGWANGYO",
+    "nameJa": "SINGWANGYO",
+    "nameEn": "SINGWANGYO",
+    "nameKo": "신광교",
+    "blogUrl": ""
+  },
+  {
+    "id": "DEBUG",
+    "name": "DE:BUG",
+    "nameJa": "DE:BUG",
+    "nameEn": "DE:BUG",
+    "nameKo": "디버그",
+    "blogUrl": ""
+  },
+  {
+    "id": "MPK46",
+    "name": "MPK46",
+    "nameJa": "MPK46",
+    "nameEn": "MPK46",
+    "nameKo": "MPK46",
+    "blogUrl": ""
+  },
+  {
+    "id": "HATSULUMI",
+    "name": "HATSULUMI",
+    "nameJa": "HATSULUMI",
+    "nameEn": "HATSULUMI",
+    "nameKo": "하츠루미",
+    "blogUrl": ""
+  },
+  {
+    "id": "NEWN",
+    "name": "NEWN",
+    "nameJa": "NEWN",
+    "nameEn": "NEWN",
+    "nameKo": "NEWN/뉴엔",
+    "blogUrl": ""
+  },
+  {
+    "id": "KOYAZUHA",
+    "name": "KOYAZUHA",
+    "nameJa": "KOYAZUHA",
+    "nameEn": "KOYAZUHA",
+    "nameKo": "코야즈하",
+    "blogUrl": ""
+  },
+  {
+    "id": "MEROKIZ",
+    "name": "MEROKiZ",
+    "nameJa": "MEROKiZ",
+    "nameEn": "MEROKiZ",
+    "nameKo": "MEROKiZ",
+    "blogUrl": ""
+  },
+  {
+    "id": "AKSR",
+    "name": "AKASORA",
+    "nameJa": "AKASORA",
+    "nameEn": "AKSR",
+    "nameKo": "아카소라",
+    "blogUrl": ""
+  },
+  {
+    "id": "HCST",
+    "name": "HCST/ハチャして",
+    "nameJa": "HCST/ハチャして",
+    "nameEn": "HCST",
+    "nameKo": "하챠시테",
+    "blogUrl": ""
+  },
+  {
+    "id": "ASTERIA",
+    "name": "asteria",
+    "nameJa": "asteria",
+    "nameEn": "asteria",
+    "nameKo": "asteria",
+    "blogUrl": ""
   }
 ]
