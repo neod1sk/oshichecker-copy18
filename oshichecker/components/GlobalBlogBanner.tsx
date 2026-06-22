@@ -2,6 +2,8 @@
 
 import { usePathname } from "next/navigation";
 import { BlogBannerRotator } from "@/components/BlogBannerRotator";
+import { DiscordCommunityBanner } from "@/components/DiscordCommunityBanner";
+import { Locale } from "@/i18n.config";
 
 export function GlobalBlogBanner() {
   const pathname = usePathname();
@@ -12,12 +14,19 @@ export function GlobalBlogBanner() {
   }
 
   const locale = pathname ? pathname.split("/")[1] : "ja";
+  const currentLocale: Locale =
+    locale === "ko" || locale === "en" ? locale : "ja";
   const headingMap: Record<string, string> = {
     ja: "おすすめブログ",
     ko: "추천 블로그",
     en: "Recommended Blogs",
   };
-  const label = headingMap[locale] || headingMap.ja;
+  const label = headingMap[currentLocale] || headingMap.ja;
 
-  return <BlogBannerRotator label={label} />;
+  return (
+    <>
+      <DiscordCommunityBanner locale={currentLocale} />
+      <BlogBannerRotator label={label} />
+    </>
+  );
 }

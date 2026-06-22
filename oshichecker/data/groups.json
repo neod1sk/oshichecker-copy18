@@ -762,5 +762,13 @@
     "nameEn": "asteria",
     "nameKo": "asteria",
     "blogUrl": ""
+  },
+  {
+    "id": "PREPARING",
+    "name": "準備中",
+    "nameJa": "準備中",
+    "nameEn": "Preparing",
+    "nameKo": "준비 중",
+    "blogUrl": ""
   }
 ]

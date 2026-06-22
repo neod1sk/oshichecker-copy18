@@ -11,7 +11,7 @@
       {
         "id": "orthodox",
         "text": "王道系（キラキラ・正統派）",
-        "textKo": "왕도형 (반짝반짝/정통파)",
+        "textKo": "왕도계 (반짝반짝/정통파)",
         "textEn": "Orthodox Style (Sparkly)",
         "scoreKey": "genre_orthodox",
         "scores": {
@@ -21,7 +21,7 @@
       {
         "id": "denpa",
         "text": "電波系（かわいい・テンション高め）",
-        "textKo": "덴파형 (텐션 높은 스타일)",
+        "textKo": "덴파계 (텐션 높은 스타일)",
         "textEn": "Denpa Style (Cute/High-Energy)",
         "scoreKey": "genre_denpa",
         "scores": {
@@ -31,7 +31,7 @@
       {
         "id": "loud",
         "text": "ラウド系（ロック・激しめ）",
-        "textKo": "라우드형 (록/강렬함)",
+        "textKo": "라우드계 (록/강렬함)",
         "textEn": "Loud Style (Rock & Aggressive)",
         "scoreKey": "genre_loud",
         "scores": {
@@ -40,8 +40,8 @@
       },
       {
         "id": "alt",
-        "text": "オルタナ系（個性派・アート寄り）",
-        "textKo": "얼터너티브형 (아트 감성)",
+        "text": "楽曲系（個性派・アート寄り）",
+        "textKo": "악곡계 (아트 감성)",
         "textEn": "Alternative Style (Artistic)",
         "scoreKey": "genre_alt",
         "scores": {
@@ -51,7 +51,7 @@
       {
         "id": "gothic",
         "text": "ゴシック系（退廃美・荘厳） ",
-        "textKo": "고딕형 (퇴폐/다크 월드)",
+        "textKo": "고딕계 (퇴폐/다크 월드)",
         "textEn": "Gothic Style (Decadent)",
         "scoreKey": "genre_gothic",
         "scores": {
@@ -61,7 +61,7 @@
       {
         "id": "cyber",
         "text": "サイバー系（近未来・デジタル）",
-        "textKo": "사이버형 (근미래/디지털)",
+        "textKo": "사이버계 (근미래/디지털)",
         "textEn": "Cyber Style (Futuristic)",
         "scoreKey": "genre_cyber",
         "scores": {

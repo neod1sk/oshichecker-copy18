@@ -117,6 +117,7 @@ export default function BattleClient({ locale, dict }: BattleClientProps) {
         <ProgressBar
           current={state.currentBattleRound + 1}
           total={BATTLE_ROUNDS}
+          locale={locale}
         />
       </div>
 
